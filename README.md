@@ -26,4 +26,4 @@
 <br>
 
 ## 🛠️ 사용 기술
-[![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,java)](https://skillicons.dev)
