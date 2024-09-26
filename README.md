@@ -7,6 +7,14 @@
 
 <br>
 
+## 🧑‍💻 참여 인원
+|  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  | <img src="https://github.com/user-attachments/assets/1e215a6b-5d4d-4382-9937-d30d5b57d8b9" width="100" height="100">  | <img src="https://github.com/user-attachments/assets/1e215a6b-5d4d-4382-9937-d30d5b57d8b9" width="100" height="100">  |
+|:---:|:---:|:---:|
+| 김례인 | 김태훈 | 이서경 |
+| Back-End | Front-End | Design |
+
+<br>
+
 ## 📁 파일 설명 및 사용법
   앱 실행 후 제공되는 계정으로 로그인 시도를 하면 FireBase서버에서 확인 후 계정이 존재한다면 로그인이 완료됩니다. 카메라 화면이 나오면 탑승한 대중교통 교통약자석에 배치된 QR코드를 스캔합니다. QR코드 스캔 후 나오는 좌석 배치도에서 탑승하길 희망하는 좌석을 선택 후 탑승합니다. 이후 하차 시 하차버튼을 눌러 하차를 완료합니다.
 
