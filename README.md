@@ -13,7 +13,7 @@
   <br>
 
   (1) 웹페이지 초기 화면  
-  <img src="https://github.com/user-attachments/assets/ae6e37ec-d85a-4420-9493-e723312f827b" width="80%">
+  <img src="https://github.com/user-attachments/assets/ae6e37ec-d85a-4420-9493-e723312f827b" width="30%">
   
   (2) 건물 및 층 선택 후 건물의 위치가 마커로 표기된 카카오맵  
   <img src="https://github.com/user-attachments/assets/80dc2aa9-f14b-4294-8c4f-3a1e66a6a811" width="80%">
