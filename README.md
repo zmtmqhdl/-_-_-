@@ -13,14 +13,16 @@
   <br>
 
   (1) 로그인 화면  
-  <img src="https://github.com/user-attachments/assets/721b0d53-de16-4491-98a1-2dd6da2ec63f" width="30%">
+  <img src="https://github.com/user-attachments/assets/721b0d53-de16-4491-98a1-2dd6da2ec63f" width="30%"> 
 
   (2) 'QR 사용법 알아보기'를 누르면 나오는 QR 사용법  
   <img src="https://github.com/user-attachments/assets/ae6e37ec-d85a-4420-9493-e723312f827b" width="30%">
   
-  (3) 카카오맵 하단에서 제공되는 선택한 층의 건물 배치도  
-  <img src="https://github.com/user-attachments/assets/d04adee2-56de-4423-8605-ee52ae7d0a14" width="80%">  
-  
+  (3) 로그인 후 QR 스캔 촬영 화면 (Virtual Device사용으로 카메라 화면이 나오지 않습니다. 실제 기기에서 앱 사용시 카메라가 정상적으로 작동되며 QR코드를 인식합니다.)
+  <img src="https://github.com/user-attachments/assets/a0b2ed63-2910-422b-839e-e4edb29321b6" width="30%">
+
+  (4) 스캔한 QR에 저장되어 있는 대중교통 식별코드에 맞춰 탑승한 나오는 대중교통의 좌석 배치도 (노란색 좌석이 비어있는 교통 약자석으로 누군가 탑승 중이라면 해당 좌석에 X가 나타나 선택이 불가합니다.)
+  <img src="https://github.com/user-attachments/assets/669a225c-188e-4dc2-a051-0201593dbc70" width="30%">
 
 <br>
 
