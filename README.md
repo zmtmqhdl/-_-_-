@@ -12,11 +12,11 @@
 
   <br>
 
-  (1) 웹페이지 초기 화면  
+  (1) 건물 및 층 선택 후 건물의 위치가 마커로 표기된 카카오맵  
+  <img src="https://github.com/user-attachments/assets/721b0d53-de16-4491-98a1-2dd6da2ec63f" width="30%">
+
+  (2) 웹페이지 초기 화면  
   <img src="https://github.com/user-attachments/assets/ae6e37ec-d85a-4420-9493-e723312f827b" width="30%">
-  
-  (2) 건물 및 층 선택 후 건물의 위치가 마커로 표기된 카카오맵  
-  <img src="https://github.com/user-attachments/assets/80dc2aa9-f14b-4294-8c4f-3a1e66a6a811" width="80%">
   
   (3) 카카오맵 하단에서 제공되는 선택한 층의 건물 배치도  
   <img src="https://github.com/user-attachments/assets/d04adee2-56de-4423-8605-ee52ae7d0a14" width="80%">  
