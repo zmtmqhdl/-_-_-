@@ -12,10 +12,10 @@
 
   <br>
 
-  (1) 건물 및 층 선택 후 건물의 위치가 마커로 표기된 카카오맵  
+  (1) 로그인 화면  
   <img src="https://github.com/user-attachments/assets/721b0d53-de16-4491-98a1-2dd6da2ec63f" width="30%">
 
-  (2) 웹페이지 초기 화면  
+  (2) 'QR 사용법 알아보기'를 누르면 나오는 QR 사용법  
   <img src="https://github.com/user-attachments/assets/ae6e37ec-d85a-4420-9493-e723312f827b" width="30%">
   
   (3) 카카오맵 하단에서 제공되는 선택한 층의 건물 배치도  
