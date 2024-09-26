@@ -8,7 +8,7 @@
 <br>
 
 ## 🧑‍💻 참여 인원
-|  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  | <img src="https://github.com/user-attachments/assets/1e215a6b-5d4d-4382-9937-d30d5b57d8b9" width="100" height="100">  | <img src="https://github.com/user-attachments/assets/1e215a6b-5d4d-4382-9937-d30d5b57d8b9" width="100" height="100">  |
+|  <img src="https://github.com/user-attachments/assets/1e215a6b-5d4d-4382-9937-d30d5b57d8b9" width="100" height="100">  | <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  | <img src="https://github.com/user-attachments/assets/1e215a6b-5d4d-4382-9937-d30d5b57d8b9" width="100" height="100">  |
 |:---:|:---:|:---:|
 | 김례인 | 김태훈 | 이서경 |
 | Back-End | Front-End | Design |
