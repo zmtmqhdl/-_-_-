@@ -22,9 +22,9 @@
   <img src="https://github.com/user-attachments/assets/a0b2ed63-2910-422b-839e-e4edb29321b6" width="30%">  
 
   (4) 스캔한 QR에 저장되어 있는 대중교통 식별코드에 맞춰 탑승한 나오는 대중교통의 좌석 배치도 (노란색 좌석이 비어있는 교통 약자석으로 누군가 탑승 중이라면 해당 좌석에 X가 나타나 선택이 불가합니다.)  
-  <img src="https://github.com/user-attachments/assets/669a225c-188e-4dc2-a051-0201593dbc70" width="30%">
+  <img src="https://github.com/user-attachments/assets/669a225c-188e-4dc2-a051-0201593dbc70" width="30%">  
 
-  (5) 좌석 선택 후 나오는 화면으로 하차 시 하차버튼을 누르게 되면 QR 촬영 화면으로 이동
+  (5) 좌석 선택 후 나오는 화면으로 하차 시 하차버튼을 누르게 되면 QR 촬영 화면으로 이동  
   <img src="https://github.com/user-attachments/assets/418041d9-4aea-426f-ad1c-2747f748df3c" width="30%">
 
 <br>
