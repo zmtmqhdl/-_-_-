@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e906c520-cc57-4826-8d68-6f3f5ab1485e" width="50%">
+  <img src="https://github.com/user-attachments/assets/6d613579-aa4d-4667-8158-01690fb3fe44" width="50%">
 </p>
 
 ## 🖥️ 양동이
