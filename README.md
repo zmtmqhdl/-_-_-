@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/e906c520-cc57-4826-8d68-6f3f5ab1485e" width="50%">
 </p>
 
-## 🖥️ QR Scan
+## 🖥️ 양동이
 외관상 구별이 힘든 교통약자들이 대중교통을 이용할 때, 해당 좌석을 이용하는 사람은 교통약자석 이용이 가능한 사람이라는 것을 대중교통 이용자들에게 시각적으로 보여주는 앱
 
 <br>
