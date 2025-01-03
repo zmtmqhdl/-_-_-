@@ -28,25 +28,27 @@ APP 실행 후 제공되는 계정으로 로그인을 합니다. 로그인 후 �
   (1) 로그인 화면  
   <img src="https://github.com/user-attachments/assets/721b0d53-de16-4491-98a1-2dd6da2ec63f" width="30%">  
 
-  (2) 'QR 사용법 알아보기'를 누르면 나오는 앱 사용법
+  (2) APP 화면  
   <img src="https://github.com/user-attachments/assets/ae6e37ec-d85a-4420-9493-e723312f827b" width="30%">  
   
-  (3) 로그인 후 QR코드 스캔 촬영
-  <img src="https://github.com/user-attachments/assets/a0b2ed63-2910-422b-839e-e4edb29321b6" width="30%">
-  Virtual Device 사용으로 카메라 화면이 나오지 않습니다. 실제 기기에서 앱 사용시 카메라가 정상적으로 작동되며 QR코드를 인식합니다.
+  (3) QR코드 스캔 촬영 화면  
+  <img src="https://github.com/user-attachments/assets/a0b2ed63-2910-422b-839e-e4edb29321b6" width="30%">  
+  Virtual Device 사용으로 카메라 화면이 나오지 않습니다. 실제 기기에서 앱 사용시 카메라가 정상적으로 작동되며 QR코드를 인식합니다. QR코드를 인식하면 대중교통 식별코드에 맞춰 탑승한 대중교통의 좌석 배치도가 나오는 화면으로 이동합니다.  
 
-  (4) 대중교통 식별코드에 맞춰 탑승한 나오는 대중교통의 좌석 배치도 
-  <img src="https://github.com/user-attachments/assets/669a225c-188e-4dc2-a051-0201593dbc70" width="30%">
-  노란색 좌석이 비어있는 교통 약자석으로 누군가 탑승 중이라면 해당 좌석에 X가 나타나 선택이 불가합니다.
+  (4) 좌석 배치도 화면  
+  <img src="https://github.com/user-attachments/assets/669a225c-188e-4dc2-a051-0201593dbc70" width="30%">  
+  노란색 좌석이 비어있는 교통 약자석으로 누군가 탑승 중이라면 해당 좌석에 X가 나타나 선택이 불가합니다. 노란색 좌석을 선택하면 하차를 할 수 있는 화면으로 이동합니다.  
 
-  (5) 좌석 선택 후 나오는 화면으로 하차 시 하차버튼을 누르게 되면 QR코드 촬영 화면으로 이동  
-  <img src="https://github.com/user-attachments/assets/418041d9-4aea-426f-ad1c-2747f748df3c" width="30%">
-
+  (5) 하차 화면  
+  <img src="https://github.com/user-attachments/assets/418041d9-4aea-426f-ad1c-2747f748df3c" width="30%">  
+  '하차하기'버튼을 통해 탑승한 좌석을 하차하여 다른 사람이 선택할 수 있도록 합니다.
+  
 <br>
 
 ## ✏️ 배운 내용
-- An의 카메라를 사용해 QR코드 스캔 기능을 구현해볼 수 있었습니다.
-- 팀원들과 협업하며 Git과 GitHub를 통해 버전 관리 및 협업 개발 경험을 쌓았습니다.
+- Android 환경 및 구조에 대해 배울 수 있었습니다.
+- Firebase의 이론에 대해 배우고, 구축한 Firebase서버와 APP을 연결하여 데이터를 실시간으로 처리하는 방법을 익혔습니다.
+- Zxing라이브러리를 통해, 기기의 카메라를 사용해 QR코드 스캔 기능을 구현해볼 수 있었습니다.
 
 <br>
 
